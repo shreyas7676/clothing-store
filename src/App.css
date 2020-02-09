@@ -1,5 +1,5 @@
 body {
-  font-family: "PT Sans Narrow", sans-serif;
+  font-family: "PT Sans Narrow", sans-serif !important;
   padding: 20px 80px;
 }
 
